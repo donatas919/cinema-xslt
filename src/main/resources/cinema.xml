@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="cinema.xsl" type="text/xsl"?>
+<cinema>
+    <films>
+        <film id="1">
+            <name>Dune</name>
+            <image>images/Dune.jpeg</image>
+            <rating>images/PG13.jpg</rating>
+            <score>8/10</score>
+            <theaterRoom>01</theaterRoom>
+            <schedule>
+                <play id="1">
+                    <date>2021/03/14</date>
+                    <time>15:10</time>
+                </play>
+                <play id="2">
+                    <date>2021/03/15</date>
+                    <time>15:11</time>
+                </play>
+                <play id="3">
+                    <date>2021/03/16</date>
+                    <time>15:12</time>
+                </play>
+            </schedule>
+            <about>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat duis ultricies lacus sed. Vel fringilla est ullamcorper eget. Laoreet sit amet cursus sit amet dictum sit amet justo. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Turpis egestas maecenas pharetra convallis. Accumsan sit amet nulla facilisi morbi. Orci ac auctor augue mauris. Tristique et egestas quis ipsum suspendisse ultrices. Blandit massa enim nec dui. In massa tempor nec feugiat nisl pretium fusce id. Tempus iaculis urna id volutpat lacus laoreet non curabitur. Id nibh tortor id aliquet lectus proin nibh nisl. Vitae semper quis lectus nulla at volutpat diam ut venenatis. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Nam libero justo laoreet sit. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. At tempor commodo ullamcorper a lacus vestibulum sed. Etiam erat velit scelerisque in dictum non consectetur a erat. Volutpat lacus laoreet non curabitur gravida arcu ac.</about>
+
+        </film>
+        <film id="2">
+            <name>Spider-Man: No Way Home</name>
+            <image>images/spider-man.jpg</image>
+            <rating>images/PG13.jpg</rating>
+            <score>8/10</score>
+            <theaterRoom>02</theaterRoom>
+            <schedule>
+                <play id="1">
+                    <date>2021/03/14</date>
+                    <time>15:10</time>
+                </play>
+                <play id="2">
+                    <date>2021/03/15</date>
+                    <time>15:11</time>
+                </play>
+                <play id="3">
+                    <date>2021/03/16</date>
+                    <time>15:12</time>
+                </play>
+            </schedule>
+            <about>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat duis ultricies lacus sed. Vel fringilla est ullamcorper eget. Laoreet sit amet cursus sit amet dictum sit amet justo. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Turpis egestas maecenas pharetra convallis. Accumsan sit amet nulla facilisi morbi. Orci ac auctor augue mauris. Tristique et egestas quis ipsum suspendisse ultrices. Blandit massa enim nec dui. In massa tempor nec feugiat nisl pretium fusce id. Tempus iaculis urna id volutpat lacus laoreet non curabitur. Id nibh tortor id aliquet lectus proin nibh nisl. Vitae semper quis lectus nulla at volutpat diam ut venenatis. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Nam libero justo laoreet sit. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. At tempor commodo ullamcorper a lacus vestibulum sed. Etiam erat velit scelerisque in dictum non consectetur a erat. Volutpat lacus laoreet non curabitur gravida arcu ac.</about>
+
+        </film>
+        <film id="3">
+            <name>Shrek</name>
+            <image>images/Shrek.jpg</image>
+            <rating>images/PG.jpg</rating>
+            <score>12/10</score>
+            <theaterRoom>03</theaterRoom>
+            <schedule>
+                <play id="1">
+                    <date>2021/03/14</date>
+                    <time>15:10</time>
+                </play>
+                <play id="2">
+                    <date>2021/03/15</date>
+                    <time>15:11</time>
+                </play>
+                <play id="3">
+                    <date>2021/03/16</date>
+                    <time>15:12</time>
+                </play>
+            </schedule>
+            <about>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat duis ultricies lacus sed. Vel fringilla est ullamcorper eget. Laoreet sit amet cursus sit amet dictum sit amet justo. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Turpis egestas maecenas pharetra convallis. Accumsan sit amet nulla facilisi morbi. Orci ac auctor augue mauris. Tristique et egestas quis ipsum suspendisse ultrices. Blandit massa enim nec dui. In massa tempor nec feugiat nisl pretium fusce id. Tempus iaculis urna id volutpat lacus laoreet non curabitur. Id nibh tortor id aliquet lectus proin nibh nisl. Vitae semper quis lectus nulla at volutpat diam ut venenatis. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Nam libero justo laoreet sit. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. At tempor commodo ullamcorper a lacus vestibulum sed. Etiam erat velit scelerisque in dictum non consectetur a erat. Volutpat lacus laoreet non curabitur gravida arcu ac.</about>
+
+        </film>
+    </films>
+</cinema>
